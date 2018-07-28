@@ -1,0 +1,2 @@
+I am writing some text in txt file using java prg
+Second Line I am writing using the java.
